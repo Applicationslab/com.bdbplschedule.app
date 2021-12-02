@@ -1,0 +1,31 @@
+[{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/9f/Dhaka_Platoons.png",
+		"teamName": "Beximco Dhaka",
+		"teamOnclick": "dhaka",
+		"teamWin": "winners: 0"
+	},
+	{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/f/fa/Barisal_Bulls_Logo.png",
+		"teamName": "Fortune Barishal",
+		"teamOnclick": "sylhet_thunder",
+		"teamWin": "Winners: 0"
+	},
+	{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/2/2c/Chattogram_Challengers.png",
+		"teamName": "GG Chattogram",
+		"teamOnclick": "chattogram_challengers",
+		"teamWin": "winners: 0"
+	},
+	{
+		"teamImage": "https://www.khulnatitans.com/wp-content/uploads/2016/09/khulna-titans-logo.png",
+		"teamName": "Gemcon Khulna",
+		"teamOnclick": "khulna_tigers",
+		"teamWin": "Winners: 0"
+	},
+	{
+		"teamImage": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F549988.png",
+		"teamName": "MG Rajshahi",
+		"teamOnclick": "rajshahi_royals",
+		"teamWin": "Winners: 0"
+	}
+]
