@@ -1,0 +1,31 @@
+[{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
+		"PPLName": "Shakib Al Hasan",
+		"PPLPrice": "Price: BDT 50L",
+		"PPLType": "All-rounder"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+		"PPLName": "Tamim Iqbal",
+		"PPLPrice": "Price: BDT 50L",
+		"PPLType": "Batsman"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+		"PPLName": "Mushfiqur Rahman",
+		"PPLPrice": "Price: BDT 50L",
+		"PPLType": "WK-Batsman"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg",
+		"PPLName": "Mahmudullah Riyad",
+		"PPLPrice": "Price: BDT 50L",
+		"PPLType": "All-rounder"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg",
+		"PPLName": "Mustafizur Rahman",
+		"PPLPrice": "Price: BDT 50L",
+		"PPLType": "Bowler"
+	}
+]
