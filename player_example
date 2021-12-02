@@ -1,0 +1,81 @@
+[{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+		"playerName": "Tamim Iqbal (C)",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/inline/content/image/1226197.html?alt=1",
+		"playerName": "Afif Hossain",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg",
+		"playerName": "Taskin Ahmed",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://dhakadynamites.com/images/profile/Irfan_Shukkur_2016-11-07_260.jpg",
+		"playerName": "Irfan Sukkur",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688905782-e1517998504495.jpg",
+		"playerName": "Mehedi Hasan",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170927/abu-jayed.jpg",
+		"playerName": "Abu Jayed",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlW3YqT2RFwDdGEcoQF_WJSXbIs3gFJSlKGg&usqp=CAU",
+		"playerName": "Towhid Hridoy",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/inline/content/image/1126038.html?alt=1",
+		"playerName": "Tanvir Islam",
+		"playerRound": "None"
+	},
+	{
+		"playerImage": "https://images.prothomalo.com/prothomalo-english%2F2020-10%2F8f076302-d890-4ae4-9495-05205c024072%2FPacer_Sumon_Khan.webp?auto=format&q=35&w=1200",
+		"playerName": "Sumon Khan",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2TL92LCwt6ITHpQyKVgebd_cVSwObBqA-cA&usqp=CAU",
+		"playerName": "Saif Hassan",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://yt3.ggpht.com/a/AATXAJwC3Z5CeUlaE4a7kbqUXZVxcHSaiHwpnJxSrab1Zg=s900-c-k-c0x00ffffff-no-rj",
+		"playerName": "Aminul Islam",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://storage.cricingif.com/cig-live-images/player-images/16000.png",
+		"playerName": "Mahidul Islam Ankon",
+		"playerRound": "None"
+	},
+	{
+		"playerImage": "https://s3.amazonaws.com/batsman/Parvez%20Hossain%20Emon_be226bcb-deeb-48d3-a658-15e611c38e0f.JPG",
+		"playerName": "Parvez Hossain Emon",
+		"playerRound": "WK_Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148281/kamrul-islam.jpg",
+		"playerName": "Kamrul Islam Rabbi",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/inline/content/image/1073730.html?alt=1",
+		"playerName": "Abu Sayeem",
+		"playerRound": "WK-batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/inline/content/image/501804.html?alt=1",
+		"playerName": "Suhrawadi Shuvo",
+		"playerRound": "Bowler"
+	}
+]
