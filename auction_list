@@ -1,21 +1,26 @@
 [{
 		"PPCImage": "https://static.wikia.nocookie.net/particracy/images/5/56/Anarchi.png/revision/latest/scale-to-width-down/340?cb=20180118213512",
-		"PPCText": "Grade A ",
-		"onClick": "Grade_A_list"
+		"PPCText": "Grade A+",
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Grade_A__plus_List"
+	},
+	{
+		"PPCImage": "https://comps.canstockphoto.com/capital-letter-b-red-stock-illustration_csp6677866.jpg",
+		"PPCText": "Grade A",
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Group_A_List"
 	},
 	{
 		"PPCImage": "https://comps.canstockphoto.com/capital-letter-b-red-stock-illustration_csp6677866.jpg",
 		"PPCText": "Grade B",
-		"onClick": "Grade_B_List"
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Group_B_List"
 	},
 	{
 		"PPCImage": "https://cdn.pixabay.com/photo/2015/10/31/12/27/c-1015531_960_720.jpg",
 		"PPCText": "Grade C",
-		"onClick": "Grade_C_List"
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Grade_C_List"
 	},
 	{
 		"PPCImage": "https://pngimg.com/uploads/letter_d/letter_d_PNG13.png",
 		"PPCText": "Grade D",
-		"onClick": "Grade_D_List"
+		"onClick": ""
 	}
 ]
