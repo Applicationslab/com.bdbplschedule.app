@@ -1,7 +1,7 @@
 [{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/9f/Dhaka_Platoons.png",
 		"teamName": "Beximco Dhaka",
-		"teamOnclick": "",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/player_example",
 		"teamWin": "winners: 0"
 	},
 	{
