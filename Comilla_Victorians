@@ -1,0 +1,21 @@
+[{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+		"playerName": "Tamim Iqbal",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170639/faf-du-plessis.jpg",
+		"playerName": "Faf du Plessis",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170953/moeen-ali.jpg",
+		"playerName": "Moeen Ali",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sunil_Narine.jpg/260px-Sunil_Narine.jpg",
+		"playerName": "Sunil Narine",
+		"playerRound": "All-Rounder"
+	}
+]
