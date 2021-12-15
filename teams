@@ -1,7 +1,7 @@
 [{
 		"teamImage": "https://www.espncricinfo.com/db/PICTURES/CMS/313500/313517.logo.png",
 		"teamName": "Barisal team",
-		"teamOnclick": "",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Barisal_team",
 		"teamWin": "winners: 0"
 	},
 	{
@@ -13,24 +13,24 @@
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/2/2c/Chattogram_Challengers.png",
 		"teamName": "Chattogram Challengers",
-		"teamOnclick": "",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Chattogram_Challengers",
 		"teamWin": "winners: 0"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/9f/Dhaka_Platoons.png",
 		"teamName": "Dhaka team",
-		"teamOnclick": "",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Dhaka_team",
 		"teamWin": "Winners: 0"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"teamName": "Khulna Tigers",
-		"teamOnclick": "",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Khulna_Tigers",
 		"teamWin": "Winners: 0"
 	},{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/6/66/Sylhet_Thunder.png",
 		"teamName": "Sylhet team",
-		"teamOnclick": "",
+		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Sylhet_team",
 		"teamWin": "Winners: 0"
 	}
 ]
