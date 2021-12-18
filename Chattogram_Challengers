@@ -1,5 +1,11 @@
 [{
-	"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
-	"playerName": "Mahmudullah",
-	"playerRound": "All-rounder"
-}]
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+		"playerName": "Mahmudullah",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg",
+		"playerName": "Chris Gayle",
+		"playerRound": "Batsman"
+	}
+]
