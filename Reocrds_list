@@ -1,7 +1,7 @@
 [{
 		"PPCImage": "https://cdn-icons-png.flaticon.com/512/625/625352.png",
 		"PPCText": "Most runs",
-		"onClick": ""
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Record_Most_Runs"
 	},
 	{
 		"PPCImage": "https://cdn0.iconfinder.com/data/icons/gamification/512/high_score-512.png",
