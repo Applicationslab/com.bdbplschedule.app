@@ -11,7 +11,7 @@
 	{
 		"PPCImage": "https://cdn.iconscout.com/icon/free/png-256/hundred-full-score-100-37852.png",
 		"PPCText": "List of Hundreds",
-		"onClick": ""
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Record_List_of_Hundreds"
 	},
 	{
 		"PPCImage": "https://img.pngio.com/preferences-system-power-icon-papirus-apps-iconset-papirus-power-icon-png-256_256.png",
