@@ -1,0 +1,62 @@
+[{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
+		"PPLName": "Shakib Al Hasan",
+		"PPLPrice": "Wkts: 106",
+		"PPLType": "Match: 76"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170922/rubel-hossain.jpg",
+		"PPLName": "Rubel Hossain",
+		"PPLPrice": "Wkts: 90",
+		"PPLType": "Match: 69"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg",
+		"PPLName": "Mashrafe Mortaza",
+		"PPLPrice": "Wkts: 81",
+		"PPLType": "Match: 87"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148285/shafiul-islam.jpg",
+		"PPLName": "Shafiul Islam",
+		"PPLPrice": "Wkts: 78",
+		"PPLType": "Match: 76"
+	},
+	{
+		"PPLImage": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg",
+		"PPLName": "Taskin Ahmed",
+		"PPLPrice": "Wkts: 74",
+		"PPLType": "Match: 53"
+	},
+	{
+		"PPLImage": "https://cdn.wisden.com/wp-content/uploads/2018/05/GettyImages-514185284-e1527671540694.jpg",
+		"PPLName": "Arafat Sunny",
+		"PPLPrice": "Wkts: 65",
+		"PPLType": "Match: 70"
+	},
+	{
+		"PPLImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100/lsci/db/PICTURES/CMS/153600/153648.1.jpg",
+		"PPLName": "Kevon Cooper",
+		"PPLPrice": "Wkts: 63",
+		"PPLType": "Match: 38"
+	},
+	{
+		"PPLImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/303200/303233.jpg",
+		"PPLName": "Farhad Reza",
+		"PPLPrice": "Wkts: 62",
+		"PPLType": "Match: 75"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170853/mohammad-nabi.jpg",
+		"PPLName": "Mohammad Nabi",
+		"PPLPrice": "Wkts: 61",
+		"PPLType": "Match: 49"
+	},
+
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146389/shahid-afridi.jpg",
+		"PPLName": "Shahid Afridi",
+		"PPLPrice": "Wkts: 57",
+		"PPLType": "Match: 45"
+	}
+]
