@@ -16,7 +16,7 @@
 	{
 		"PPCImage": "https://img.pngio.com/preferences-system-power-icon-papirus-apps-iconset-papirus-power-icon-png-256_256.png",
 		"PPCText": "Highest strike rates",
-		"onClick": ""
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Record_Highest_strike_rates"
 	},
 	{
 		"PPCImage": "https://www.freeiconspng.com/uploads/number-6-icon-24.png",
