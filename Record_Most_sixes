@@ -1,0 +1,62 @@
+[{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+		"PPLName": "Chris Gayle",
+		"PPLPrice": "Six: 132",
+		"PPLType": "Match: 42"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148273/imrul-kayes.jpg",
+		"PPLName": "Imrul Kayes",
+		"PPLPrice": "Six: 73",
+		"PPLType": "Match: 81"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+		"PPLName": "Mushfiqur Rahim",
+		"PPLPrice": "Six: 72",
+		"PPLType": "Match: 85"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+		"PPLName": "Tamim Iqbal",
+		"PPLPrice": "Six: 71",
+		"PPLType": "Match: 70"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170903/sabbir-rahman.jpg",
+		"PPLName": "Sabbir Rahman",
+		"PPLPrice": "Six: 67",
+		"PPLType": "Match: 85"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg",
+		"PPLName": "Mahmudullah",
+		"PPLPrice": "Six: 66",
+		"PPLType": "Match: 82"
+	},
+	{
+		"PPLImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170821/andre-russell.jpg",
+		"PPLName": "Andre Russell",
+		"PPLPrice": "Six: 62",
+		"PPLType": "Match: 44"
+	},
+	{
+		"PPLImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170785/evin-lewis.jpg",
+		"PPLName": "Evin Lewis",
+		"PPLPrice": "Six: 57",
+		"PPLType": "Match: 31"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170918/mohammad-mithun.jpg",
+		"PPLName": "Mohammad Mithun",
+		"PPLPrice": "Six: 57",
+		"PPLType": "Match: 81"
+	},
+
+	{
+		"PPLImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157336/rilee-rossouw.jpg",
+		"PPLName": "Rilee Rossouw",
+		"PPLPrice": "Six: 55",
+		"PPLType": "Match: 37"
+	}
+]
