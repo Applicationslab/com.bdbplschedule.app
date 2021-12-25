@@ -31,6 +31,6 @@
 	{
 		"PPCImage": "https://www.pngkit.com/png/detail/31-313590_arrow-clipart-direction-arrow-arrow-pointing-up-sign.png",
 		"PPCText": "Highest totals",
-		"onClick": ""
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Record_Highest_totals"
 	}
 ]
