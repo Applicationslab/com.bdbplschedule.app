@@ -6,7 +6,7 @@
 	{
 		"PPCImage": "https://cdn0.iconfinder.com/data/icons/gamification/512/high_score-512.png",
 		"PPCText": "High scores",
-		"onClick": ""
+		"onClick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Record_High%20scores"
 	},
 	{
 		"PPCImage": "https://www.nicepng.com/png/detail/428-4280800_expert-icon-png-real-time-statistics-icon.png",
