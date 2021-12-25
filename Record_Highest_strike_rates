@@ -1,0 +1,61 @@
+[{
+		"PPLImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170798/carlos-brathwaite.jpg",
+		"PPLName": "Carlos Brathwaite",
+		"PPLPrice": "SR: 174.15",
+		"PPLType": "Runs: 310"
+	},
+	{
+		"PPLImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c146398/luke-ronchi.jpg",
+		"PPLName": "Luke Ronchi",
+		"PPLPrice": "SR: 169.84",
+		"PPLType": "Runs: 321"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170999/ab-de-villiers.jpg",
+		"PPLName": "AB de Villiers",
+		"PPLPrice": "SR: 168.02",
+		"PPLType": "Runs: 247"
+	},
+	{
+		"PPLImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156171/alex-hales.jpg",
+		"PPLName": "Alex Hales",
+		"PPLPrice": "SR: 167.03",
+		"PPLType": "Runs: 304"
+	},
+	{
+		"PPLImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170821/andre-russell.jpg",
+		"PPLName": "Andre Russell",
+		"PPLPrice": "SR: 165.41",
+		"PPLType": "Runs: 751"
+	},
+	{
+		"PPLImage": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-635173354-e1522075044150.jpg",
+		"PPLName": "Seekkuge Prasanna",
+		"PPLPrice": "SR: 165.21*",
+		"PPLType": "Runs: 266"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170702/avishka-fernando.jpg",
+		"PPLName": "Avishka Fernando",
+		"PPLPrice": "SR: 164.92",
+		"PPLType": "Runs: 221"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157791/daren-sammy.jpg",
+		"PPLName": "Daren Sammy",
+		"PPLPrice": "SR: 162.46",
+		"PPLType": "Runs: 528"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+		"PPLName": "Chris Gayle",
+		"PPLPrice": "SR: 156.49",
+		"PPLType": "Runs: 1482"
+	},
+	{
+		"PPLImage": "https://ttensports.com/wp-content/uploads/2018/11/Imran_Nazir.png",
+		"PPLName": "Imran Nazir",
+		"PPLPrice": "SR: 156.00",
+		"PPLType": "Runs: 390"
+	}
+]
