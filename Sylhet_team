@@ -1,11 +1,6 @@
 [{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
-		"playerName": "Mustafizur",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156212/taskin-ahmed.jpg",
+		"playerName": "Taskin Ahmed",
 		"playerRound": "Bowler"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170687/david-miller.jpg",
-		"playerName": "David Miller",
-		"playerRound": "Batsman"
 	}
 ]
