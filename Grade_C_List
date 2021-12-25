@@ -1,187 +1,158 @@
 [{
 		"PPLImage": "https://s3.amazonaws.com/batsman/Tanzid%20Hasan_ac4eb98e-27a3-4371-b270-8036cac2080b.JPG",
 		"PPLName": "Tanzid Hasan Tamim",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://s3.amazonaws.com/batsman/Parvez%20Hossain%20Emon_be226bcb-deeb-48d3-a658-15e611c38e0f.JPG",
 		"PPLName": "Pervez Hossain Emon",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "WK-Batsman"
 	},
 	{
 		"PPLImage": "https://www.bdnews24us.com/bangla/media/2020/02/Image-1602153301.jpg",
 		"PPLName": "Shahadat Hossain Dipu ",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://upload.wikimedia.org/wikipedia/commons/3/32/Shamim_cricketer.jpg",
 		"PPLName": "Shamim Patwari",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "All-rounder"
 	},
 	{
 		"PPLImage": "https://biographybd.com/wp-content/uploads/2020/02/Akbar-Ali.gif",
 		"PPLName": "Md Akbar Ali",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "WK-Batsman"
 	},
 	{
 		"PPLImage": "https://www.espncricinfo.com/inline/content/image/1126038.html?alt=1",
 		"PPLName": "Tanvir Islam",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Bowler"
 	},
 	{
 		"PPLImage": "https://storage.cricingif.com/cig-live-images/player-images/16000.png",
 		"PPLName": "Mahidul Ankon",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "WK-Batsman"
 	},
 	{
 		"PPLImage": "https://s3.amazonaws.com/batsman/Mahmudul%20Hasan%20Joy_d8704dd1-0ecd-4fad-997a-315f894117e8.JPG",
 		"PPLName": "Mahmudul Hasan Joy",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://.com/images/profile/Rony-Talukder_2019-01-07_960.jpg",
 		"PPLName": "Rezaur Rahman",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://hamariweb.com/cricket/profile1/imagesall/MjgwNDYuNQ==.jpg",
 		"PPLName": "Rakibul Hasan",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Bowler"
 	},
 	{
 		"PPLImage": "https://.gettyimages.com/photos/sunzamul-islam-of-bangladesh-poses-for-a-picture-during-the-portrait-picture-id688905670",
 		"PPLName": "Rakibul Hasan (Sr.)",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Bowler"
 	},
 	{
 		"PPLImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlW3YqT2RFwDdGEcoQF_WJSXbIs3gFJSlKGg&usqp=CAU",
 		"PPLName": "Towhid Hridoy",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://biographybd.com/wp-content/uploads/2019/12/Mukidul-Islam-Mugdho-2.gif",
 		"PPLName": "Md Mukidul Islam",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Bowler"
 	},
 	{
 		"PPLImage": "https://media.dhakatribune.com/uploads/2017/04/image-12689-1491989289.jpg",
 		"PPLName": "Shafiqul Islam",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Bowler"
-	},
-	{
-		"PPLImage": "https://www.espncricinfo.com/inline/content/image/1178636.html?alt=1",
-		"PPLName": "Shoriful Islam",
-		"PPLPrice": "Price: BDT 12L",
-		"PPLType": "Bowler"
-	},
-	{
-		"PPLImage": "https://s3.amazonaws.com/batsman/Ariful%20Haque_21ce9e45-35b8-4cd6-992e-959a3bb3a0f7.JPG",
-		"PPLName": "Ariful Hoque",
-		"PPLPrice": "Price: BDT 12L",
-		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://www.espncricinfo.com/inline/content/image/501804.html?alt=1",
 		"PPLName": "Sohrawardi Shuvo",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Bowler"
 	},
-	{
-		"PPLImage": "https://livesportworld.com/wp-content/uploads/2017/10/Shuvagata-Hom-biography.jpg",
-		"PPLName": "Shuvagata Hom",
-		"PPLPrice": "Price: BDT 12L",
-		"PPLType": "All-Rounder"
-	},
-	{
-		"PPLImage": "https://thedailynewnation.com/library/1592669878_4.jpg",
-		"PPLName": "Nazmul Islam Apu",
-		"PPLPrice": "Price: BDT 12L",
-		"PPLType": "Bowler"
-	},
+
 	{
 		"PPLImage": "https://www.espncricinfo.com/inline/content/image/965835.html?alt=1",
 		"PPLName": "Sanjit Saha",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Bowler"
 	},
 	{
 		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155892/ziaur-rahman.jpg",
 		"PPLName": "Ziaur Rahman",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "All-rounder"
 	},
 	{
 		"PPLImage": "https://s3.amazonaws.com/batsman/Muktar%20Ali_2d4756dd-a3c1-4fb0-a52f-413f491f35c6.JPG",
 		"PPLName": "Muktar Ali",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "All-rounder"
 	},
 	{
 		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156213/zakir-hasan.jpg",
 		"PPLName": "Md Zakir Hasan",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "WK-Batsman"
 	},
 	{
 		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155769/mohammad-ashraful.jpg",
 		"PPLName": "Mohammad Ashraful",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://www.espncricinfo.com/inline/content/image/1061656.html?alt=1",
 		"PPLName": "Salman Hossain",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://storage.cricingif.com/cig-live-images/player-images/14247.png",
 		"PPLName": "Pinak Ghosh",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://www.espncricinfo.com/inline/content/image/1205084.html?alt=1",
 		"PPLName": "Robiul Islam Robi",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
 	},
 	{
 		"PPLImage": "https://www.khulnatitans.com/wp-content/uploads/2016/11/Abu-Sayem.jpg",
 		"PPLName": "Abu Sayem",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "WK-Batsman"
 	},
 	{
 		"PPLImage": "https://www.espncricinfo.com/inline/content/image/878659.html?alt=1",
 		"PPLName": "Md. Shykat Ali",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "All-Rounder"
 	},
 	{
 		"PPLImage": "https://www.espncricinfo.com/inline/content/image/1178710.html?alt=1",
 		"PPLName": "Anisul Emon",
-		"PPLPrice": "Price: BDT 12L",
+		"PPLPrice": "Price: BDT 18L",
 		"PPLType": "Batsman"
-	},
-	{
-		"PPLImage": "https://www.espncricinfo.com/inline/content/image/1177734.html?alt=1",
-		"PPLName": "Mehadi Hasan",
-		"PPLPrice": "Price: BDT 12L",
-		"PPLType": "Bowler"
 	}
 ]
