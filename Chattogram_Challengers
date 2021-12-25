@@ -1,11 +1,16 @@
 [{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
-		"playerName": "Mahmudullah",
-		"playerRound": "All-rounder"
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/148300/148317.1.jpg",
+		"playerName": "Nasum Ahmed",
+		"playerRound": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg",
-		"playerName": "Chris Gayle",
-		"playerRound": "Batsman"
+		"playerImage": "https://www.cricwaves.com/cricket/pics/players/Kennar-Lewis.jpg",
+		"playerName": "Kennar Lewis",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://alchetron.com/cdn/benny-howell-768c3eca-1c63-497b-9104-ee6ac74befc-resize-750.jpeg",
+		"playerName": "Benny Howell",
+		"playerRound": "All-Rounder"
 	}
 ]
