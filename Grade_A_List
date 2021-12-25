@@ -1,0 +1,55 @@
+[{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg",
+		"PPLName": "Mosaddek Hossain",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "All-rounder"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170927/abu-jayed.jpg",
+		"PPLName": "Abu Jayed Rahi",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "Bowler"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg",
+		"PPLName": "Mehidy Miraz",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "All-rounder"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg",
+		"PPLName": "Liton Das",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "WK-Batsman"
+	},
+	{
+		"PPLImage": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-462981464-e1518000330502.jpg",
+		"PPLName": "Taijul Islam",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "Bowler"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg",
+		"PPLName": "Mohammad Saifuddin,",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "All-Rounder"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148273/imrul-kayes.jpg",
+		"PPLName": "Imrul Kayes",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "Batsman"
+	},
+	{
+		"PPLImage": "https://sportzcraazy.com/wp-content/uploads/2019/10/Mominul-Haque.jpg",
+		"PPLName": "Mominul Haque",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "Batsman"
+	},
+	{
+		"PPLImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170918/mohammad-mithun.jpg",
+		"PPLName": "Mohammad Mithun,",
+		"PPLPrice": "Price: BDT 40L",
+		"PPLType": "Batsman"
+	}
+]
