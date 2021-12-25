@@ -1,0 +1,36 @@
+[{
+		"PPCImage": "https://cdn-icons-png.flaticon.com/512/625/625352.png",
+		"PPCText": "Most runs",
+		"onClick": ""
+	},
+	{
+		"PPCImage": "https://cdn0.iconfinder.com/data/icons/gamification/512/high_score-512.png",
+		"PPCText": "High scores",
+		"onClick": ""
+	},
+	{
+		"PPCImage": "https://www.nicepng.com/png/detail/428-4280800_expert-icon-png-real-time-statistics-icon.png",
+		"PPCText": "Highest averages",
+		"onClick": ""
+	},
+	{
+		"PPCImage": "https://img.pngio.com/preferences-system-power-icon-papirus-apps-iconset-papirus-power-icon-png-256_256.png",
+		"PPCText": "Highest strike rates",
+		"onClick": ""
+	},
+	{
+		"PPCImage": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Icon_6_orange.svg",
+		"PPCText": "Most sixes",
+		"onClick": ""
+	},
+	{
+		"PPCImage": "https://static.vecteezy.com/system/resources/thumbnails/000/512/806/small/ball_cricket_in_wicket.jpg",
+		"PPCText": "Most wickets",
+		"onClick": ""
+	},
+	{
+		"PPCImage": "https://www.pngkit.com/png/detail/31-313590_arrow-clipart-direction-arrow-arrow-pointing-up-sign.png",
+		"PPCText": "Highest totals",
+		"onClick": ""
+	}
+]
