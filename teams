@@ -1,6 +1,6 @@
 [{
 		"teamImage": "https://www.espncricinfo.com/db/PICTURES/CMS/313500/313517.logo.png",
-		"teamName": "Barisal team",
+		"teamName": "Fortune Barishal",
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Barisal_team",
 		"teamWin": "Champions: 0"
 	},
@@ -18,7 +18,7 @@
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/9f/Dhaka_Platoons.png",
-		"teamName": "Dhaka team",
+		"teamName": "Dhaka Stars",
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Dhaka_team",
 		"teamWin": "Champions (2012, 2013, 2016)"
 	},
@@ -29,7 +29,7 @@
 		"teamWin": "Champions: 0"
 	},{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/6/66/Sylhet_Thunder.png",
-		"teamName": "Sylhet team",
+		"teamName": "Sylhet SunRisers",
 		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Sylhet_team",
 		"teamWin": "Champions: 0"
 	}
