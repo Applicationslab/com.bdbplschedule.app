@@ -1,15 +1,66 @@
 [{
-	"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
-	"playerName": "Shakib Al Hasan",
-	"playerRound": "All-Rounder"
-},
-{
-	"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg",
-	"playerName": "Chris Gayle",
-	"playerRound": "Batsman"
-},
-{
-	"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170865/mujeeb-ur-rahman.jpg",
-	"playerName": "Mujeeb Ur Rahman",
-	"playerRound": "Bowler"
-}]
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
+		"playerName": "Shakib Al Hasan",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg",
+		"playerName": "Chris Gayle",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170865/mujeeb-ur-rahman.jpg",
+		"playerName": "Mujeeb Ur Rahman",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c154637/danushka-gunathilaka.jpg",
+		"playerName": "Danushka Gunathilaka",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://www.celebritycontactdetails.com/wp-content/uploads/2020/05/Cricketer-Nurul-Hasan-Contact-3.jpg",
+		"playerName": "Nurul Hasan",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://sportzcraazy.com/wp-content/uploads/2019/10/Nazmul-Hossain-Shanto.jpg",
+		"playerName": "Najmul Shanto",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/216600/216607.1.jpg",
+		"playerName": "Mehedi Rana",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/281200/281207.1.jpg",
+		"playerName": "Fazle Mahmud",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170824/oshane-thomas.jpg",
+		"playerName": "Oshane Thomas",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "http://www.wiplayers.com/wp-content/uploads/2019/03/mcoy-n.jpg",
+		"playerName": "Obed McCoy",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c152877/alzarri-joseph.jpg",
+		"playerName": "Alzarri Joseph",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286900/286907.1.jpg",
+		"playerName": "Towhid Hridoy",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/149800/149862.jpg",
+		"playerName": "Ziaur Rahman",
+		"playerRound": "All-rounder"
+	}
+]
