@@ -44,13 +44,38 @@
 		"playerRound": "All-rounder"
 	},
 	{
-		"playerImage": "https://alchetron.com/cdn/benny-howell-768c3eca-1c63-497b-9104-ee6ac74befc-resize-750.jpeg",
-		"playerName": "Benny Howell",
+		"playerImage": "https://ttensports.com/wp-content/uploads/2019/11/WILL-JACK-233x300.png",
+		"playerName": "Will Jacks",
 		"playerRound": "All-rounder"
 	},
 	{
-		"playerImage": "https://www.cricwaves.com/cricket/pics/players/Kennar-Lewis.jpg",
-		"playerName": "Kennar Lewis",
+		"playerImage": "https://www.mykhel.com/thumb/247x100x233/cricket/players/3/15183.jpg",
+		"playerName": "Rejaur Rahman Raja",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170903/sabbir-rahman.jpg",
+		"playerName": "Sabbir Rahman",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://images.cricket.com/players/70200_headshot_safari.png",
+		"playerName": "Mrittunjoy Chowdhury",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156219/naeem-islam.jpg",
+		"playerName": "Naeem Islam",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg",
+		"playerName": "Mehidy Hasan",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "http://s3.amazonaws.com/batsman/Akbar%20Ali_c152d26d-8cf7-45fa-8160-f3ec8795884c.JPG",
+		"playerName": "Akbar Ali",
 		"playerRound": "WK-Batsman"
 	}
 ]
