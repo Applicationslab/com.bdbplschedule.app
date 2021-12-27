@@ -12,5 +12,45 @@
 		"playerImage": "https://alchetron.com/cdn/benny-howell-768c3eca-1c63-497b-9104-ee6ac74befc-resize-750.jpeg",
 		"playerName": "Benny Howell",
 		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/306000/306068.1.jpg",
+		"playerName": "Afif Hossain",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286900/286908.1.jpg",
+		"playerName": "Shoriful Islam",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/326600/326637.4.jpg",
+		"playerName": "Shamim Hossain",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/318700/318766.1.jpg",
+		"playerName": "Mukidul Islam",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157229/chadwick-walton.jpg",
+		"playerName": "Chadwick Walton",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/232700/232743.jpg",
+		"playerName": "Rayad Emrit",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://alchetron.com/cdn/benny-howell-768c3eca-1c63-497b-9104-ee6ac74befc-resize-750.jpeg",
+		"playerName": "Benny Howell",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://www.cricwaves.com/cricket/pics/players/Kennar-Lewis.jpg",
+		"playerName": "Kennar Lewis",
+		"playerRound": "WK-Batsman"
 	}
 ]
