@@ -1,5 +1,21 @@
 [{
-	"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170900/soumya-sarkar.jpg",
-	"playerName": "Soumya Sarkar",
-	"playerRound": "Batsman"
-}]
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg",
+		"playerName": "Mahmudullah Riyad",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg",
+		"playerName": "Mashrafe Mortaza",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+		"playerName": "Tamim Iqbal",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170855/mohammad-shahzad.jpg",
+		"playerName": "Mohammad Shahzad",
+		"playerRound": "WK-Batsman"
+	}
+]
