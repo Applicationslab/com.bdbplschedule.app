@@ -17,5 +17,45 @@
 		"playerImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sunil_Narine.jpg/260px-Sunil_Narine.jpg",
 		"playerName": "Sunil Narine",
 		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg",
+		"playerName": "Liton Das",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/283000/283052.1.jpg",
+		"playerName": "Shohidul Islam",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148273/imrul-kayes.jpg",
+		"playerName": "Imrul Kayes",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/269600/269672.1.jpg",
+		"playerName": "Tanvir Islam",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170815/kusal-mendis.jpg",
+		"playerName": "Kusal Mendis",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170824/oshane-thomas.jpg",
+		"playerName": "Oshane Thomas",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://bengali.mykhel.com/thumb/247x100x233/cricket/players/0/10790.jpg",
+		"playerName": "Ariful Haque",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/273500/273534.1.jpg",
+		"playerName": "Nahidul Islam",
+		"playerRound": "All-rounder"
 	}
 ]
