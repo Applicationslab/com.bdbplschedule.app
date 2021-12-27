@@ -14,6 +14,26 @@
 		"playerRound": "Bowler"
 	},
 	{
+		"playerImage": "https://sportzcraazy.com/wp-content/uploads/2019/10/Shuvagata-Hom.jpg",
+		"playerName": "Shuvagata Hom",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/296500/296532.1.jpg",
+		"playerName": "Qais Ahmad",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170839/najibullah-zadran.jpg",
+		"playerName": "Najibullah Zadran",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170710/isuru-udana.jpg",
+		"playerName": "Isuru Udana",
+		"playerRound": "Batsman"
+	},
+	{
 		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170855/mohammad-shahzad.jpg",
 		"playerName": "Mohammad Shahzad",
 		"playerRound": "WK-Batsman"
@@ -24,11 +44,6 @@
 		"playerRound": "Bowler"
 	},
 	{
-		"playerImage": "https://sportzcraazy.com/wp-content/uploads/2019/10/Shuvagata-Hom.jpg",
-		"playerName": "Shuvagata Hom",
-		"playerRound": "All-Rounder"
-	},
-	{
 		"playerImage": "https://p.imgci.com/db/PICTURES/CMS/306700/306755.3.jpg",
 		"playerName": "Fazalhaq Farooqi",
 		"playerRound": "Bowler"
@@ -36,6 +51,36 @@
 	{
 		"playerImage": "https://i1.wp.com/insiderion.com/wp-content/uploads/2019/11/Mohammad-Naim-Sheikh.jpg",
 		"playerName": "Naim Sheikh",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://cdn.wisden.com/wp-content/uploads/2018/05/GettyImages-514185284-e1527671540694.jpg",
+		"playerName": "Arafat Sunny",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://miro.medium.com/max/3150/1*JgdRrRinHMKkeLdXjNpHvw.jpeg",
+		"playerName": "Imran Uzzaman",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148285/shafiul-islam.jpg",
+		"playerName": "Shafiul Islam",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://dhakadynamites.com/images/profile/DD_JAHURUL_2017-11-08_905.jpg",
+		"playerName": "Jahurul Islam",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/303100/303158.jpg",
+		"playerName": "Shamsur Rahman",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://www.sportsnoticias.com/wp-content/uploads/2020/09/ebadot-hossain.jpg",
+		"playerName": "Ebadot Hossain",
 		"playerRound": "Bowler"
 	}
 ]
