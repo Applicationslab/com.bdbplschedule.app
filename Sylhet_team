@@ -2,5 +2,30 @@
 		"playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156212/taskin-ahmed.jpg",
 		"playerName": "Taskin Ahmed",
 		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://staticg.sportskeeda.com/editor/2018/03/cf66e-1520594324-800.jpg",
+		"playerName": "Dinesh Chandimal",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg",
+		"playerName": "Mosaddek Hossain",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170918/mohammad-mithun.jpg",
+		"playerName": "Mohammad Mithun",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156217/al-amin-hossain.jpg",
+		"playerName": "Al-Amin Hossain",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://thedailynewnation.com/library/1592669878_4.jpg",
+		"playerName": "Nazmul Islam Apu",
+		"playerRound": "Bowler"
 	}
 ]
