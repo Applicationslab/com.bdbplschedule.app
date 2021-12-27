@@ -17,5 +17,20 @@
 		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170855/mohammad-shahzad.jpg",
 		"playerName": "Mohammad Shahzad",
 		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170922/rubel-hossain.jpg",
+		"playerName": "Rubel Hossain",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://sportzcraazy.com/wp-content/uploads/2019/10/Shuvagata-Hom.jpg",
+		"playerName": "Shuvagata Hom",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://p.imgci.com/db/PICTURES/CMS/306700/306755.3.jpg",
+		"playerName": "Fazalhaq Farooqi",
+		"playerRound": "Bowler"
 	}
 ]
