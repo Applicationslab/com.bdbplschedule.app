@@ -1,5 +1,51 @@
 [{
-	"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
-	"playerName": "Mushfiqur",
-	"playerRound": "WK-Batsman"
-}]
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+		"playerName": "Mushfiqur",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/286600/286686.1.jpg",
+		"playerName": "Mahedi Hasan",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170900/soumya-sarkar.jpg",
+		"playerName": "Soumya Sarkar",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148281/kamrul-islam.jpg",
+		"playerName": "Kamrul Rabbi",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/179500/179555.1.jpg",
+		"playerName": "Yasir Ali",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-925699164-e1520007487932.jpg",
+		"playerName": "Sikandar Raza",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/305100/305108.jpg",
+		"playerName": "Seekkuge Prasanna",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170714/thisara-perera.jpg",
+		"playerName": "Thisara Perera",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/112800/112857.1.jpg",
+		"playerName": "Bhanuka Rajapaksa",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/303200/303285.jpg",
+		"playerName": "Naveen-ul-Haq",
+		"playerRound": "Bowler"
+	}
+]
