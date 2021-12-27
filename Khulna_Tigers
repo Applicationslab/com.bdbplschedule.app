@@ -4,6 +4,21 @@
 		"playerRound": "WK-Batsman"
 	},
 	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170714/thisara-perera.jpg",
+		"playerName": "Thisara Perera",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/112800/112857.1.jpg",
+		"playerName": "Bhanuka Rajapaksa",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/303200/303285.jpg",
+		"playerName": "Naveen-ul-Haq",
+		"playerRound": "Bowler"
+	},
+	{
 		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/286600/286686.1.jpg",
 		"playerName": "Mahedi Hasan",
 		"playerRound": "All-rounder"
@@ -34,23 +49,28 @@
 		"playerRound": "All-Rounder"
 	},
 	{
-		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170714/thisara-perera.jpg",
-		"playerName": "Thisara Perera",
-		"playerRound": "All-Rounder"
-	},
-	{
-		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/112800/112857.1.jpg",
-		"playerName": "Bhanuka Rajapaksa",
-		"playerRound": "Batsman"
-	},
-	{
-		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/303200/303285.jpg",
-		"playerName": "Naveen-ul-Haq",
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/303200/303233.jpg",
+		"playerName": "Farhad Reza",
 		"playerRound": "Bowler"
 	},
 	{
-		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/303200/303233.jpg",
-		"playerName": "Farhad Reza",
+		"playerImage": "https://dhakadynamites.com/images/profile/Rony-Talukder_2019-01-07_960.jpg",
+		"playerName": "Rony Talukdar",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/278500/278554.1.jpg",
+		"playerName": "Khaled Ahmed",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/232500/232593.1.jpg",
+		"playerName": "Jaker Ali",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/167000/167049.jpg",
+		"playerName": "Nabil Samad",
 		"playerRound": "Bowler"
 	}
 ]
