@@ -27,5 +27,65 @@
 		"playerImage": "https://thedailynewnation.com/library/1592669878_4.jpg",
 		"playerName": "Nazmul Islam Apu",
 		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://ttensports.com/wp-content/uploads/2019/11/SHIRAZ-AHMED.png",
+		"playerName": "Shiraz Ahmed",
+		"playerRound": "Bowler"
+	}, {
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157468/ravi-bopara.jpg",
+		"playerName": "Ravi Bopara",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/295800/295890.jpg",
+		"playerName": "Angelo Perera",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146405/kesrick-williams.jpg",
+		"playerName": "Kesrick Williams",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171078/colin-ingram.jpg",
+		"playerName": "Colin Ingram",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155747/anamul-haque.jpg",
+		"playerName": "Anamul Haque",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/181200/181239.jpg",
+		"playerName": "Sohag Gazi",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://indianhotdeal.com/wp-content/uploads/2020/03/119.jpg",
+		"playerName": "Alok Kapali",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/171000/171015.1.jpg",
+		"playerName": "Muktar Ali",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155459/jubair-hossain.jpg",
+		"playerName": "Jubair Hossain",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/283600/283616.1.jpg",
+		"playerName": "Mizanur Rahman",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://dnd3y8e5nonx2.cloudfront.net/humans/avatars/1221467/1432633761/display.jpeg",
+		"playerName": "Nadif Chowdhury",
+		"playerRound": "Batsman"
 	}
+
 ]
