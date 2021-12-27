@@ -62,5 +62,35 @@
 		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/149800/149862.jpg",
 		"playerName": "Ziaur Rahman",
 		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://www.mykhel.com/thumb/247x100x233/cricket/players/3/6753..jpg",
+		"playerName": "Shafiqul Islam",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://p.imgci.com/db/PICTURES/CMS/112900/112905.jpg",
+		"playerName": "Shykat Ali",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146429/niroshan-dickwella.jpg",
+		"playerName": "Niroshan Dickwella",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://cdn.wisden.com/wp-content/uploads/2018/05/GettyImages-902064996-e1527263746900.jpg",
+		"playerName": "Nayeem Hasan",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148279/taijul-islam.jpg",
+		"playerName": "Taijul Islam",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/148300/148328.jpg",
+		"playerName": "Salman Hossain",
+		"playerRound": "Batsman"
 	}
 ]
