@@ -1,7 +1,7 @@
 [{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "BOR",
-		"ssResultTextText": "T20 1 of 34",
+		"sResultTextText": "T20 1 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Fri, Jan 21, 1:30 PM",
@@ -14,7 +14,7 @@
 	{
 		"sFastTeamName": "KHL",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 2 of 34",
+		"sResultTextText": "T20 2 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Fri, Jan 21, 6:30 PM",
@@ -28,7 +28,7 @@
 	{
 		"sFastTeamName": "COM",
 		"sSecendTeamName": "SYL",
-		"ssResultTextText": "T20 3 of 34",
+		"sResultTextText": "T20 3 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sResultText": "Sat, Jan 22, 12:30 PM",
@@ -42,7 +42,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 4 of 34",
+		"sResultTextText": "T20 4 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Sat, Jan 22, 5:30 PM",
@@ -56,7 +56,7 @@
 	{
 		"sFastTeamName": "BOR",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 5 of 34",
+		"sResultTextText": "T20 5 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Mon, Jan 24, 12:30 PM",
@@ -70,7 +70,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "KHL",
-		"ssResultTextText": "T20 6 of 34",
+		"sResultTextText": "T20 6 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sResultText": "Mon, Jan 24, 5:30 PM",
@@ -84,7 +84,7 @@
 	{
 		"sFastTeamName": "SYL",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 7 of 34",
+		"sResultTextText": "T20 7 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Tue, Jan 25, 12:30 PM",
@@ -98,7 +98,7 @@
 	{
 		"sFastTeamName": "COM",
 		"sSecendTeamName": "BOR",
-		"ssResultTextText": "T20 8 of 34",
+		"sResultTextText": "T20 8 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Tue, Jan 25, 5:30 PM",
@@ -112,7 +112,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "KHL",
-		"ssResultTextText": "T20 9 of 34",
+		"sResultTextText": "T20 9 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sResultText": "Jan 28, 1:30 PM",
@@ -123,7 +123,7 @@
 	{
 		"sFastTeamName": "SYL",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 10 of 34",
+		"sResultTextText": "T20 10 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Jan 28, 6:30 PM",
@@ -137,7 +137,7 @@
 	{
 		"sFastTeamName": "KHL",
 		"sSecendTeamName": "BOR",
-		"ssResultTextText": "T20 11 of 34",
+		"sResultTextText": "T20 11 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Jan 29, 12:30 PM",
@@ -151,7 +151,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "SYL",
-		"ssResultTextText": "T20 12 of 34",
+		"sResultTextText": "T20 12 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sResultText": "Jan 29, 5:30 PM",
@@ -165,7 +165,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "COM",
-		"ssResultTextText": "T20 13 of 34",
+		"sResultTextText": "T20 13 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sResultText": "Jan 31, 12:30 PM",
@@ -179,7 +179,7 @@
 	{
 		"sFastTeamName": "KHL",
 		"sSecendTeamName": "BOR",
-		"ssResultTextText": "T20 14 of 34",
+		"sResultTextText": "T20 14 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Jan 31, 5:30 PM",
@@ -193,7 +193,7 @@
 	{
 		"sFastTeamName": "COM",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 15 of 34",
+		"sResultTextText": "T20 15 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Feb 1, 12:30 PM",
@@ -207,7 +207,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "BOR",
-		"ssResultTextText": "T20 16 of 34",
+		"sResultTextText": "T20 16 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Feb 1, 5:30 PM",
@@ -221,7 +221,7 @@
 	{
 		"sFastTeamName": "KHL",
 		"sSecendTeamName": "SYL",
-		"ssResultTextText": "T20 17 of 34",
+		"sResultTextText": "T20 17 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sResultText": "Feb 3, 12:30 PM",
@@ -235,7 +235,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "COM",
-		"ssResultTextText": "T20 18 of 34",
+		"sResultTextText": "T20 18 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sResultText": "Feb 3, 5:30 PM",
@@ -249,7 +249,7 @@
 	{
 		"sFastTeamName": "SYL",
 		"sSecendTeamName": "BOR",
-		"ssResultTextText": "T20 19 of 34",
+		"sResultTextText": "T20 19 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Feb 4, 1:30 PM",
@@ -263,7 +263,7 @@
 	{
 		"sFastTeamName": "COM",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 20 of 34",
+		"sResultTextText": "T20 20 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Feb 4, 6:30 PM",
@@ -277,7 +277,7 @@
 	{
 		"sFastTeamName": "COM",
 		"sSecendTeamName": "BOR",
-		"ssResultTextText": "T20 21 of 34",
+		"sResultTextText": "T20 21 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Feb 7, 12:30 PM",
@@ -291,7 +291,7 @@
 	{
 		"sFastTeamName": "KHL",
 		"sSecendTeamName": "SYL",
-		"ssResultTextText": "T20 22 of 34",
+		"sResultTextText": "T20 22 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sResultText": "Feb 7, 5:30 PM",
@@ -305,7 +305,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 23 of 34",
+		"sResultTextText": "T20 23 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Feb 8, 12:30 PM",
@@ -319,7 +319,7 @@
 	{
 		"sFastTeamName": "SYL",
 		"sSecendTeamName": "BOR",
-		"ssResultTextText": "T20 24 of 34",
+		"sResultTextText": "T20 24 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Feb 8, 5:30 PM",
@@ -333,7 +333,7 @@
 	{
 		"sFastTeamName": "KHL",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 25 of 34",
+		"sResultTextText": "T20 25 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Feb 9, 12:30 PM",
@@ -347,7 +347,7 @@
 	{
 		"sFastTeamName": "COM",
 		"sSecendTeamName": "SYL",
-		"ssResultTextText": "T20 26 of 34",
+		"sResultTextText": "T20 26 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sResultText": "Feb 9, 5:30 PM",
@@ -361,7 +361,7 @@
 	{
 		"sFastTeamName": "KHL",
 		"sSecendTeamName": "COM",
-		"ssResultTextText": "T20 27 of 34",
+		"sResultTextText": "T20 27 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sResultText": "Feb 11, 1:30 PM",
@@ -375,7 +375,7 @@
 	{
 		"sFastTeamName": "BOR",
 		"sSecendTeamName": "DHA",
-		"ssResultTextText": "T20 28 of 34",
+		"sResultTextText": "T20 28 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
 		"sResultText": "Feb 11, 6:30 PM",
@@ -389,7 +389,7 @@
 	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "SYL",
-		"ssResultTextText": "T20 29 of 34",
+		"sResultTextText": "T20 29 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
 		"sResultText": "Feb 12, 12:30 PM",
@@ -403,7 +403,7 @@
 	{
 		"sFastTeamName": "KHL",
 		"sSecendTeamName": "COM",
-		"ssResultTextText": "T20 30 of 34",
+		"sResultTextText": "T20 30 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sResultText": "Feb 12, 5:30 PM",
@@ -417,7 +417,7 @@
 	{
 		"sFastTeamName": "TBD",
 		"sSecendTeamName": "TBD",
-		"ssResultTextText": "Play-off · T20 31 of 34",
+		"sResultTextText": "Play-off · T20 31 of 34",
 		"sFastImageView": "firstimage",
 		"sSecendImageview": "firstimage",
 		"sResultText": "Feb 14, , 12:30 PM",
@@ -431,7 +431,7 @@
 	{
 		"sFastTeamName": "TBD",
 		"sSecendTeamName": "TBD",
-		"ssResultTextText": "Play-off · T20 32 of 34",
+		"sResultTextText": "Play-off · T20 32 of 34",
 		"sFastImageView": "firstimage",
 		"sSecendImageview": "firstimage",
 		"sResultText": "Feb 14, 5:30 PM",
@@ -445,7 +445,7 @@
 	{
 		"sFastTeamName": "TBD",
 		"sSecendTeamName": "TBD",
-		"ssResultTextText": "Play-off · T20 33 of 34",
+		"sResultTextText": "Play-off · T20 33 of 34",
 		"sFastImageView": "firstimage",
 		"sSecendImageview": "firstimage",
 		"sResultText": "Feb 16, 5:30 PM",
@@ -459,7 +459,7 @@
 	{
 		"sFastTeamName": "TBD",
 		"sSecendTeamName": "TBD",
-		"ssResultTextText": "Final · T20 34 of 34",
+		"sResultTextText": "Final · T20 34 of 34",
 		"sFastImageView": "firstimage",
 		"sSecendImageview": "firstimage",
 		"sResultText": "Feb 18, 6:30 PM",
