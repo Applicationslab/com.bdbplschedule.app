@@ -77,5 +77,25 @@
 		"playerImage": "https://images.cricket.com/players/70418_headshot_safari.png",
 		"playerName": "Pervez Hossain Emon",
 		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.mykhel.com/thumb/247x100x233/cricket/players/7/5557.jpg",
+		"playerName": "Abu Hider",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg",
+		"playerName": "Mehedi Hasan",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157370/cameron-delport.jpg",
+		"playerName": "Cameron Delport",
+		"playerRound": "All-Rounder"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/248200/248267.1.jpg",
+		"playerName": "Karim Janat",
+		"playerRound": "All-Rounder"
 	}
 ]
