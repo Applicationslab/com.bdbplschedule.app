@@ -4,11 +4,6 @@
 		"playerRound": "Bowler"
 	},
 	{
-		"playerImage": "https://staticg.sportskeeda.com/editor/2018/03/cf66e-1520594324-800.jpg",
-		"playerName": "Dinesh Chandimal",
-		"playerRound": "WK-Batsman"
-	},
-	{
 		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg",
 		"playerName": "Mosaddek Hossain",
 		"playerRound": "All-rounder"
@@ -35,11 +30,6 @@
 	}, {
 		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157468/ravi-bopara.jpg",
 		"playerName": "Ravi Bopara",
-		"playerRound": "All-rounder"
-	},
-	{
-		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/295800/295890.jpg",
-		"playerName": "Angelo Perera",
 		"playerRound": "All-rounder"
 	},
 	{
@@ -86,6 +76,26 @@
 		"playerImage": "https://dnd3y8e5nonx2.cloudfront.net/humans/avatars/1221467/1432633761/display.jpeg",
 		"playerName": "Nadif Chowdhury",
 		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/210000/210065.jpg",
+		"playerName": "Shafiul Hayet",
+		"playerRound": "All-rounder"
+	},
+	{
+		"playerImage": "https://sportzcraazy.com/wp-content/uploads/2019/10/Sunzamul-Islam.jpg",
+		"playerName": "Sunzamul Islam",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157836/lendl-simmons.jpg",
+		"playerName": "Lendl Simmons",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/232700/232787.jpg",
+		"playerName": "Devon Thomas",
+		"playerRound": "WK-Batsman"
 	}
 
 ]
