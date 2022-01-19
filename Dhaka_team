@@ -82,5 +82,15 @@
 		"playerImage": "https://www.sportsnoticias.com/wp-content/uploads/2020/09/ebadot-hossain.jpg",
 		"playerName": "Ebadot Hossain",
 		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://media-eng.dhakatribune.com/uploads/2018/11/1-5842980037552242688-n-1542202286819.jpg",
+		"playerName": "Rishad Hossain",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170821/andre-russell.jpg",
+		"playerName": "Andre Russell",
+		"playerRound": "All-Rounder"
 	}
 ]
