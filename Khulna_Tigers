@@ -9,11 +9,6 @@
 		"playerRound": "All-Rounder"
 	},
 	{
-		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/112800/112857.1.jpg",
-		"playerName": "Bhanuka Rajapaksa",
-		"playerRound": "Batsman"
-	},
-	{
 		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/303200/303285.jpg",
 		"playerName": "Naveen-ul-Haq",
 		"playerRound": "Bowler"
@@ -71,6 +66,26 @@
 	{
 		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/167000/167049.jpg",
 		"playerName": "Nabil Samad",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/128600/128613.1.jpg",
+		"playerName": "Suhrawadi Shuvo",
+		"playerRound": "Bowler"
+	},
+	{
+		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/229200/229225.square.jpg",
+		"playerName": "Sharifullah",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146338/andre-fletcher.jpg",
+		"playerName": "Andre Fletcher",
+		"playerRound": "WK-Batsman"
+	},
+	{
+		"playerImage": "http://s3.amazonaws.com/batsman/Tanzid%20Hasan_ac4eb98e-27a3-4371-b270-8036cac2080b.JPG",
+		"playerName": "Tanzid Hasan",
 		"playerRound": "Bowler"
 	}
 ]
