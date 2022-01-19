@@ -14,9 +14,9 @@
 		"playerRound": "Bowler"
 	},
 	{
-		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c154637/danushka-gunathilaka.jpg",
-		"playerName": "Danushka Gunathilaka",
-		"playerRound": "Batsman"
+		"playerImage": "https://dhakadynamites.com/images/profile/Irfan_Shukkur_2016-11-07_260.jpg",
+		"playerName": "irfan sukkur",
+		"playerRound": "WK-Batsman"
 	},
 	{
 		"playerImage": "https://www.celebritycontactdetails.com/wp-content/uploads/2020/05/Cricketer-Nurul-Hasan-Contact-3.jpg",
@@ -74,9 +74,9 @@
 		"playerRound": "Batsman"
 	},
 	{
-		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146429/niroshan-dickwella.jpg",
-		"playerName": "Niroshan Dickwella",
-		"playerRound": "WK-Batsman"
+		"playerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171033/dwayne-bravo.jpg",
+		"playerName": "Dwayne Bravo",
+		"playerRound": "All=Rounder"
 	},
 	{
 		"playerImage": "https://cdn.wisden.com/wp-content/uploads/2018/05/GettyImages-902064996-e1527263746900.jpg",
@@ -92,5 +92,15 @@
 		"playerImage": "https://www.espncricinfo.com/db/PICTURES/CMS/148300/148328.jpg",
 		"playerName": "Salman Hossain",
 		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "http://s3.amazonaws.com/batsman/Munim%20Shahriar_74bb5c2d-9bae-46e4-9ed0-8b91ac739dfe.JPG",
+		"playerName": "Munim Shahriar",
+		"playerRound": "Batsman"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/323200/323299.2.jpg",
+		"playerName": "Jake Lintott",
+		"playerRound": "Bowler"
 	}
 ]
