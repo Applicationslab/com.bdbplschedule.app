@@ -18,20 +18,20 @@
 	{
 		"pointPosition": "03.",
 		"pointTeamName": "Comilla",
-		"pointTotalMatch": "0",
-		"pointWinMatch": "0",
+		"pointTotalMatch": "1",
+		"pointWinMatch": "1",
 		"pointLoseMatch": "0",
-		"pointTotalPoints": "0",
-		"pointPlusPoints": "+0.00"
+		"pointTotalPoints": "2",
+		"pointPlusPoints": "+0.396"
 	},
 	{
 		"pointPosition": "04.",
 		"pointTeamName": "Sylhet",
-		"pointTotalMatch": "0",
+		"pointTotalMatch": "1",
 		"pointWinMatch": "0",
-		"pointLoseMatch": "0",
+		"pointLoseMatch": "1",
 		"pointTotalPoints": "0",
-		"pointPlusPoints": "+0.00"
+		"pointPlusPoints": "-0.396"
 	}, {
 		"pointPosition": "05.",
 		"pointTeamName": "Chattogram",
