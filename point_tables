@@ -1,22 +1,14 @@
 [{
 		"pointPosition": "01.",
-		"pointTeamName": "Khulna",
-		"pointTotalMatch": "1",
-		"pointWinMatch": "1",
-		"pointLoseMatch": "0",
-		"pointTotalPoints": "2",
-		"pointPlusPoints": "+0.639"
-	}, {
-		"pointPosition": "02.",
 		"pointTeamName": "Chattogram",
-		"pointTotalMatch": "2",
-		"pointWinMatch": "1",
+		"pointTotalMatch": "3",
+		"pointWinMatch": "2",
 		"pointLoseMatch": "1",
-		"pointTotalPoints": "0",
-		"pointPlusPoints": "-0.503"
+		"pointTotalPoints": "4",
+		"pointPlusPoints": "+0.740"
 	},
 	{
-		"pointPosition": "03.",
+		"pointPosition": "02.",
 		"pointTeamName": "Comilla",
 		"pointTotalMatch": "1",
 		"pointWinMatch": "1",
@@ -24,13 +16,21 @@
 		"pointTotalPoints": "2",
 		"pointPlusPoints": "+0.396"
 	}, {
-		"pointPosition": "04.",
+		"pointPosition": "03.",
 		"pointTeamName": "Barishal",
 		"pointTotalMatch": "2",
 		"pointWinMatch": "1",
 		"pointLoseMatch": "1",
 		"pointTotalPoints": "2",
 		"pointPlusPoints": "-0.205"
+	}, {
+		"pointPosition": "04.",
+		"pointTeamName": "Khulna",
+		"pointTotalMatch": "2",
+		"pointWinMatch": "1",
+		"pointLoseMatch": "1",
+		"pointTotalPoints": "2",
+		"pointPlusPoints": "-0.325"
 	}, {
 		"pointPosition": "05.",
 		"pointTeamName": "Dhaka",
