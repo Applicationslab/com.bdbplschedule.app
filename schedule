@@ -17,11 +17,11 @@
 		"sDateText": "T20 8 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
-		"sResultText": "Barishal chose to bowl",
-		"sFastOver": "",
-		"sFastScore": "",
-		"sSecendOver": "",
-		"sSecendScore": "",
+		"sResultText": "Cumilla won by 63 runs",
+		"sFastOver": "(20)",
+		"sFastScore": "158/7",
+		"sSecendOver": "(17.3)",
+		"sSecendScore": "95/10",
 
 		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11smmnl_82;5;/m/0h68043;dt;fp;1;;"
 	},
