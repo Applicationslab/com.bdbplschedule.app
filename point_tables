@@ -1,19 +1,19 @@
 [{
 		"pointPosition": "01.",
-		"pointTeamName": "Chattogram",
-		"pointTotalMatch": "5",
-		"pointWinMatch": "3",
-		"pointLoseMatch": "2",
-		"pointTotalPoints": "6",
-		"pointPlusPoints": "+0.497"
-	}, {
-		"pointPosition": "02.",
 		"pointTeamName": "Comilla",
-		"pointTotalMatch": "2",
-		"pointWinMatch": "2",
+		"pointTotalMatch": "3",
+		"pointWinMatch": "3",
 		"pointLoseMatch": "0",
-		"pointTotalPoints": "4",
-		"pointPlusPoints": "+1.820"
+		"pointTotalPoints": "6",
+		"pointPlusPoints": "+2.099"
+	}, {
+		"pointPosition": "02",
+		"pointTeamName": "Chattogram",
+		"pointTotalMatch": "6",
+		"pointWinMatch": "3",
+		"pointLoseMatch": "3",
+		"pointTotalPoints": "6",
+		"pointPlusPoints": "-0.024"
 	}, {
 		"pointPosition": "03.",
 		"pointTeamName": "Dhaka",
