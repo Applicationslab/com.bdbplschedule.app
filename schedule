@@ -1,42 +1,14 @@
 [{
-		"sFastTeamName": "Cha",
-		"sSecendTeamName": "COM",
-		"sDateText": "T20 13 of 34",
-		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
-		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
-		"sResultText": "Comilla won by 52 runs",
-		"sFastOver": "(17.3)",
-		"sFastScore": "131/10",
-		"sSecendOver": "(20)",
-		"sSecendScore": "183/3",
-
-		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11pt_9xcjq;5;/m/0h68043;dt;fp;1;;"
-	},
-	{
-		"sFastTeamName": "KHL",
-		"sSecendTeamName": "BOR",
-		"sDateText": "T20 14 of 34",
-		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
-		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
-		"sResultText": "Borishal won by 6 runs",
-		"sFastOver": "(20)",
-		"sFastScore": "139/6",
-		"sSecendOver": "(18.5)",
-		"sSecendScore": "145/10",
-
-		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11smmp43xs;5;/m/0h68043;dt;fp;1;;"
-	},
-	{
 		"sFastTeamName": "COM",
 		"sSecendTeamName": "DHA",
 		"sDateText": "T20 15 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
-		"sResultText": "Feb 1, 12:30 PM",
-		"sFastOver": "",
-		"sFastScore": "",
-		"sSecendOver": "",
-		"sSecendScore": "",
+		"sResultText": "Dhaka won by 50 runs",
+		"sFastOver": "(17.3)",
+		"sFastScore": "131",
+		"sSecendOver": "(20)",
+		"sSecendScore": "181/6",
 
 		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11pt_9ps2c;5;/m/0h68043;dt;fp;1;;"
 	},
@@ -46,7 +18,7 @@
 		"sDateText": "T20 16 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
-		"sResultText": "Feb 1, 5:30 PM",
+		"sResultText": "Borishal chose to bat",
 		"sFastOver": "",
 		"sFastScore": "",
 		"sSecendOver": "",
