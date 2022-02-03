@@ -1,19 +1,19 @@
 [{
 		"pointPosition": "01.",
+		"pointTeamName": "Comilla",
+		"pointTotalMatch": "5",
+		"pointWinMatch": "4",
+		"pointLoseMatch": "1",
+		"pointTotalPoints": "8",
+		"pointPlusPoints": "+0.942"
+	}, {
+		"pointPosition": "02.",
 		"pointTeamName": "Barishal",
 		"pointTotalMatch": "6",
 		"pointWinMatch": "4",
 		"pointLoseMatch": "2",
 		"pointTotalPoints": "8",
 		"pointPlusPoints": "-0.287"
-	}, {
-		"pointPosition": "02.",
-		"pointTeamName": "Comilla",
-		"pointTotalMatch": "4",
-		"pointWinMatch": "3",
-		"pointLoseMatch": "1",
-		"pointTotalPoints": "6",
-		"pointPlusPoints": "+0.946"
 	}, {
 		"pointPosition": "03.",
 		"pointTeamName": "Dhaka",
@@ -23,29 +23,30 @@
 		"pointTotalPoints": "6",
 		"pointPlusPoints": "+0.266"
 	}, {
-		"pointPosition": "04",
-		"pointTeamName": "Chattogram",
-		"pointTotalMatch": "7",
-		"pointWinMatch": "3",
-		"pointLoseMatch": "4",
-		"pointTotalPoints": "6",
-		"pointPlusPoints": "-0.119"
-	}, {
-		"pointPosition": "05.",
+		"pointPosition": "04.",
 		"pointTeamName": "Khulna",
-		"pointTotalMatch": "5",
-		"pointWinMatch": "2",
+		"pointTotalMatch": "6",
+		"pointWinMatch": "3",
 		"pointLoseMatch": "3",
-		"pointTotalPoints": "4",
-		"pointPlusPoints": "-0.272"
+		"pointTotalPoints": "6",
+		"pointPlusPoints": "+0.175"
+	},
+	{
+		"pointPosition": "05",
+		"pointTeamName": "Chattogram",
+		"pointTotalMatch": "8",
+		"pointWinMatch": "3",
+		"pointLoseMatch": "5",
+		"pointTotalPoints": "6",
+		"pointPlusPoints": "-0.215"
 	},
 	{
 		"pointPosition": "06.",
 		"pointTeamName": "Sylhet",
-		"pointTotalMatch": "4",
+		"pointTotalMatch": "5",
 		"pointWinMatch": "1",
-		"pointLoseMatch": "3",
+		"pointLoseMatch": "4",
 		"pointTotalPoints": "2",
-		"pointPlusPoints": "-0.366"
+		"pointPlusPoints": "-0.784"
 	}
 ]
