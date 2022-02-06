@@ -1,39 +1,10 @@
 [{
-		"sFastTeamName": "SYL",
-		"sSecendTeamName": "BOR",
-		"sDateText": "T20 19 of 34",
-		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
-		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
-		"sResultText": "Match abandoned",
-
-		"sFastOver": "",
-		"sFastScore": "",
-		"sSecendOver": "",
-		"sSecendScore": "",
-		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11pt_bvymb;5;/m/0h68043;dt;fp;1;;"
-	},
-	{
-		"sFastTeamName": "COM",
-		"sSecendTeamName": "DHA",
-		"sDateText": "T20 20 of 34",
-		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
-		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
-		"sResultText": "Match abandoned",
-
-		"sFastOver": "",
-		"sFastScore": "",
-		"sSecendOver": "",
-		"sSecendScore": "",
-		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rn0z5gkb;5;/m/0h68043;dt;fp;1;;"
-	},
-	{
 		"sFastTeamName": "COM",
 		"sSecendTeamName": "BOR",
 		"sDateText": "T20 21 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sResultText": "Feb 7, 12:30 PM",
-
 		"sFastOver": "",
 		"sFastScore": "",
 		"sSecendOver": "",
