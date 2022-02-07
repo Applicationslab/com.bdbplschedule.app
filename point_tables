@@ -1,19 +1,19 @@
 [{
 		"pointPosition": "01.",
-		"pointTeamName": "Comilla",
-		"pointTotalMatch": "6",
-		"pointWinMatch": "4",
-		"pointLoseMatch": "1",
-		"pointTotalPoints": "9",
-		"pointPlusPoints": "+0.942"
+		"pointTeamName": "Barishal",
+		"pointTotalMatch": "8",
+		"pointWinMatch": "5",
+		"pointLoseMatch": "2",
+		"pointTotalPoints": "11",
+		"pointPlusPoints": "-0.014"
 	}, {
 		"pointPosition": "02.",
-		"pointTeamName": "Barishal",
+		"pointTeamName": "Comilla",
 		"pointTotalMatch": "7",
 		"pointWinMatch": "4",
 		"pointLoseMatch": "2",
 		"pointTotalPoints": "9",
-		"pointPlusPoints": "-0.287"
+		"pointPlusPoints": "+0.506"
 	}, {
 		"pointPosition": "03.",
 		"pointTeamName": "Dhaka",
