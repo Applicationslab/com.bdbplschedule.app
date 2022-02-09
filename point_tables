@@ -9,11 +9,11 @@
 	}, {
 		"pointPosition": "02.",
 		"pointTeamName": "Comilla",
-		"pointTotalMatch": "7",
-		"pointWinMatch": "4",
+		"pointTotalMatch": "8",
+		"pointWinMatch": "5",
 		"pointLoseMatch": "2",
-		"pointTotalPoints": "9",
-		"pointPlusPoints": "+0.506"
+		"pointTotalPoints": "11",
+		"pointPlusPoints": "+0.475"
 	}, {
 		"pointPosition": "03.",
 		"pointTeamName": "Dhaka",
@@ -43,10 +43,10 @@
 	{
 		"pointPosition": "06.",
 		"pointTeamName": "Sylhet",
-		"pointTotalMatch": "8",
+		"pointTotalMatch": "9",
 		"pointWinMatch": "1",
-		"pointLoseMatch": "6",
+		"pointLoseMatch": "7",
 		"pointTotalPoints": "3",
-		"pointPlusPoints": "-0.776"
+		"pointPlusPoints": "-0.713"
 	}
 ]
