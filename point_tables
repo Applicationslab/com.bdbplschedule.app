@@ -16,28 +16,28 @@
 		"pointPlusPoints": "+0.506"
 	}, {
 		"pointPosition": "03.",
-		"pointTeamName": "Khulna",
-		"pointTotalMatch": "7",
+		"pointTeamName": "Dhaka",
+		"pointTotalMatch": "9",
 		"pointWinMatch": "4",
-		"pointLoseMatch": "3",
-		"pointTotalPoints": "8",
-		"pointPlusPoints": "+0.266"
+		"pointLoseMatch": "4",
+		"pointTotalPoints": "9",
+		"pointPlusPoints": "+0.222"
 	}, {
-		"pointPosition": "04",
+		"pointPosition": "04.",
+		"pointTeamName": "Khulna",
+		"pointTotalMatch": "8",
+		"pointWinMatch": "4",
+		"pointLoseMatch": "4",
+		"pointTotalPoints": "8",
+		"pointPlusPoints": "+0.177"
+	}, {
+		"pointPosition": "05",
 		"pointTeamName": "Chattogram",
 		"pointTotalMatch": "9",
 		"pointWinMatch": "4",
 		"pointLoseMatch": "5",
 		"pointTotalPoints": "8",
 		"pointPlusPoints": "-0.172"
-	}, {
-		"pointPosition": "05.",
-		"pointTeamName": "Dhaka",
-		"pointTotalMatch": "9",
-		"pointWinMatch": "3",
-		"pointLoseMatch": "4",
-		"pointTotalPoints": "7",
-		"pointPlusPoints": "+0.204"
 	},
 
 	{
