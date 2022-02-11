@@ -4,12 +4,11 @@
 		"sDateText": "T20 27 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
-		"sResultText": "Feb 11, 1:30 PM",
-
-		"sFastOver": "",
-		"sFastScore": "",
-		"sSecendOver": "",
-		"sSecendScore": "",
+		"sResultText": "Comilla won by 65 runs",
+		"sFastOver": "(19.3)",
+		"sFastScore": "123/10",
+		"sSecendOver": "(20)",
+		"sSecendScore": "188/6",
 		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11smmp8zg_;5;/m/0h68043;dt;fp;1;;"
 	},
 	{
@@ -18,7 +17,7 @@
 		"sDateText": "T20 28 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
-		"sResultText": "Feb 11, 6:30 PM",
+		"sResultText": "Live",
 
 		"sFastOver": "",
 		"sFastScore": "",
