@@ -15,7 +15,15 @@
 		"pointTotalPoints": "15",
 		"pointPlusPoints": "+0.831"
 	}, {
-		"pointPosition": "03.",
+		"pointPosition": "03",
+		"pointTeamName": "Chattogram",
+		"pointTotalMatch": "10",
+		"pointWinMatch": "5",
+		"pointLoseMatch": "5",
+		"pointTotalPoints": "10",
+		"pointPlusPoints": "-0.100"
+	}, {
+		"pointPosition": "04.",
 		"pointTeamName": "Dhaka",
 		"pointTotalMatch": "10",
 		"pointWinMatch": "4",
@@ -23,29 +31,21 @@
 		"pointTotalPoints": "9",
 		"pointPlusPoints": "-0.003"
 	}, {
-		"pointPosition": "04.",
+		"pointPosition": "05.",
 		"pointTeamName": "Khulna",
 		"pointTotalMatch": "9",
 		"pointWinMatch": "4",
 		"pointLoseMatch": "5",
 		"pointTotalPoints": "8",
 		"pointPlusPoints": "-0.214"
-	}, {
-		"pointPosition": "05",
-		"pointTeamName": "Chattogram",
-		"pointTotalMatch": "9",
-		"pointWinMatch": "4",
-		"pointLoseMatch": "5",
-		"pointTotalPoints": "8",
-		"pointPlusPoints": "-0.172"
 	},
 
 	{
 		"pointPosition": "06.",
 		"pointTeamName": "Sylhet",
-		"pointTotalMatch": "9",
+		"pointTotalMatch": "10",
 		"pointWinMatch": "1",
-		"pointLoseMatch": "7",
+		"pointLoseMatch": "8",
 		"pointTotalPoints": "3",
 		"pointPlusPoints": "-0.713"
 	}
