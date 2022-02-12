@@ -1,41 +1,15 @@
 [{
-		"sFastTeamName": "KHL",
-		"sSecendTeamName": "COM",
-		"sDateText": "T20 27 of 34",
-		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
-		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/200px-Comilla_Victorians.png",
-		"sResultText": "Comilla won by 65 runs",
-		"sFastOver": "(19.3)",
-		"sFastScore": "123/10",
-		"sSecendOver": "(20)",
-		"sSecendScore": "188/6",
-		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11smmp8zg_;5;/m/0h68043;dt;fp;1;;"
-	},
-	{
-		"sFastTeamName": "BOR",
-		"sSecendTeamName": "DHA",
-		"sDateText": "T20 28 of 34",
-		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Fortune_Barishal.png/200px-Fortune_Barishal.png",
-		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Minister_Group_Dhaka.png/250px-Minister_Group_Dhaka.png",
-		"sResultText": "Borishal won by 8 wkt",
-		"sFastOver": "(20)",
-		"sFastScore": "129/2",
-		"sSecendOver": "(15.3)",
-		"sSecendScore": "128/9",
-		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11pt_9z1h0;5;/m/0h68043;dt;fp;1;;"
-	},
-	{
 		"sFastTeamName": "Cha",
 		"sSecendTeamName": "SYL",
 		"sDateText": "T20 29 of 34",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Chattogram_Challengers.png/200px-Chattogram_Challengers.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sylhet_Sunrisers.png/200px-Sylhet_Sunrisers.png",
-		"sResultText": "Feb 12, 12:30 PM",
+		"sResultText": "Chattogram won by 4 wkt",
 
-		"sFastOver": "",
-		"sFastScore": "",
-		"sSecendOver": "",
-		"sSecendScore": "",
+		"sFastOver": "(19.1)",
+		"sFastScore": "188/6",
+		"sSecendOver": "(20)",
+		"sSecendScore": "185/6",
 		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rn0z60mp;5;/m/0h68043;dt;fp;1;;"
 	},
 	{
