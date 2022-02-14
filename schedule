@@ -17,20 +17,20 @@
 		"sDateText": "Play-off · 2",
 		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/e/ea/Fortune_Barishal.png",
 		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/250px-Comilla_Victorians.png",
-		"sResultText": "Comilla RRR: 7.15",
+		"sResultText": "Borishal won by 10 runs",
 		"sFastOver": "(20)",
 		"sFastScore": "143/8",
-		"sSecendOver": "",
-		"sSecendScore": "",
+		"sSecendOver": "(20)",
+		"sSecendScore": "133/7",
 
 		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11smmp9t2n;5;/m/0h68043;dt;fp;1;;"
 	},
 	{
 		"sFastTeamName": "CHA",
-		"sSecendTeamName": "TBD",
+		"sSecendTeamName": "COM",
 		"sDateText": "Play-off · 3",
 		"sFastImageView": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F942833.png",
-		"sSecendImageview": "firstimage",
+		"sSecendImageview": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Comilla_Victorians.png/250px-Comilla_Victorians.png",
 		"sResultText": "Feb 16, 5:30 PM",
 
 		"sFastOver": "",
@@ -40,10 +40,10 @@
 		"sResultUrl": "https://www.google.com/search?q=bpl+2022+schedule&oq=bpl+&aqs=chrome.0.69i59l2j69i57j69i60l5.1229j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11smmp67t3;5;/m/0h68043;dt;fp;1;;"
 	},
 	{
-		"sFastTeamName": "TBD",
+		"sFastTeamName": "Bor",
 		"sSecendTeamName": "TBD",
-		"sDateText": "Final · T20 34 of 34",
-		"sFastImageView": "firstimage",
+		"sDateText": "Final",
+		"sFastImageView": "https://upload.wikimedia.org/wikipedia/en/e/ea/Fortune_Barishal.png",
 		"sSecendImageview": "firstimage",
 		"sResultText": "Feb 18, 6:30 PM",
 		"sFastOver": "",
