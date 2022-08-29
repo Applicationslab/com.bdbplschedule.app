@@ -5,32 +5,60 @@
 		"teamWin": "Champions: 0"
 	},
 	{
-		"teamImage": "https://static.wikia.nocookie.net/logopedia/images/3/33/Comilla_Victorians_Logo.png/revision/latest?cb=20180924164150",
-		"teamName": "Comilla Victorians",
-		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Comilla_Victorians",
-		"teamWin": "Champions: (2015, 2019)"
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/afghanistan.png",
+		"teamName": "Afghanistan",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/afghanistan/96/players",
+		"teamWin": "Champions: (0)"
 	},
 	{
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/2/2c/Chattogram_Challengers.png",
-		"teamName": "Chattogram Challengers",
-		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Chattogram_Challengers",
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/pakistan.png",
+		"teamName": "Pakistan",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/pakistan/3/players",
 		"teamWin": "Champions: 0"
 	},
 	{
-		"teamImage": "https://i.ibb.co/Q8qRdGD/New-Project-2.jpg",
-		"teamName": "Dhaka Stars",
-		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Dhaka_team",
-		"teamWin": "Champions (2012, 2013, 2016)"
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/australia.png",
+		"teamName": "Australia",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/australia/4/players",
+		"teamWin": "Champions (0)"
 	},
 	{
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
-		"teamName": "Khulna Tigers",
-		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Khulna_Tigers",
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/sri_lanka.png",
+		"teamName": "Sri Lanka",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/sri-lanka/5/players",
 		"teamWin": "Champions: 0"
-	},{
-		"teamImage": "https://i.ibb.co/9vh9scx/New-Project-3.jpg",
-		"teamName": "Sylhet SunRisers",
-		"teamOnclick": "https://raw.githubusercontent.com/Applicationslab/com.bdbplschedule.app/main/Sylhet_team",
+	}, {
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/bangladesh.png",
+		"teamName": "Bangladesh",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/bangladesh/6/players",
+		"teamWin": "Champions: 0"
+	},
+	{
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/england.png",
+		"teamName": "England",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/england/9/players",
+		"teamWin": "Champions: 0"
+	}, {
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/west_indies.png",
+		"teamName": "West Indies",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/west-indies/10/players",
+		"teamWin": "Champions: 0"
+	},
+	{
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/south_africa.png",
+		"teamName": "South Africa",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/south-africa/11/players",
+		"teamWin": "Champions: 0"
+	}, {
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/new_zealand.png",
+		"teamName": "New Zealand",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/new-zealand/13/players",
+		"teamWin": "Champions: 0"
+	},
+	{
+		"teamImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/zimbabwe.png",
+		"teamName": "Zimbabwe",
+		"teamOnclick": "https://www.cricbuzz.com/cricket-team/zimbabwe/12/players",
 		"teamWin": "Champions: 0"
 	}
 ]
