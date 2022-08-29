@@ -1,43 +1,31 @@
 [{
-		"winnersImage": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F942837.png",
-		"winnersName": "Dhaka Platoon",
-		"winnersRun": "Runner-up:(2017, 2019)",
-		"winnersWin": "Champion:(2012, 2013, 2016)"
+		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/india.png",
+		"winnersName": "India",
+		"winnersRun": "Runner-up:(0)",
+		"winnersWin": "Champions (2016)"
 	},
 	{
-		"winnersImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/313500/313515.logo.png",
-		"winnersName": "Cumilla Warriors",
-		"winnersRun": "Runner-up: 0",
-		"winnersWin": "Champion:(2015, 2019)"
+		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/bangladesh.png",
+		"winnersName": "Bangladesh",
+		"winnersRun": "Runners-up (2016)",
+		"winnersWin": "Champion:(0)"
 	},
 	{
-		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/a/a1/Rajshahi_Royals.png",
-		"winnersName": "Rajshahi Royals",
-		"winnersRun": "Runner-up: (2016)",
-		"winnersWin": "Champion: (2019–20)"
+		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/pakistan.png",
+		"winnersName": "Pakistan",
+		"winnersRun": "Group stage (2016)",
+		"winnersWin": "Champion: (0)"
 	},
 	{
-		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/e/e8/Rangpur_Rangers.png",
-		"winnersName": "Rangpur Rangers",
+		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/sri_lanka.png",
+		"winnersName": "Sri Lanka",
 		"winnersRun": "Runner-up: 0",
 		"winnersWin": "Champion: (2017)"
 	},
 	{
-		"winnersImage": "https://i.ibb.co/q17Ykpq/download.png",
-		"winnersName": "Barisal Bulls",
-		"winnersRun": "Runner-up: (2012, 2015)",
-		"winnersWin": "Champion: (0)"
-	},
-	{
-		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/2/2c/Chattogram_Challengers.png",
-		"winnersName": "Chattogram Challengers",
-		"winnersRun": "Runner-up: (2013)",
-		"winnersWin": "Champion: (0)"
-	},
-	{
-		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
-		"winnersName": "Khulna Tigers",
-		"winnersRun": "Runner-up: (2019-20)",
+		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/uae.png",
+		"winnersName": "UAE",
+		"winnersRun": "Group stage (2016)",
 		"winnersWin": "Champion: (0)"
 	}
 ]
