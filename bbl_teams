@@ -1,47 +1,47 @@
 [{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Adelaide_Strikers_logo.svg/480px-Adelaide_Strikers_logo.svg.png",
 		"teamName": "Adelaide Strikers",
-		"teamOnclick": "https://www.cricbuzz.com/cricket-team/india/2/players",
+		"teamOnclick": "",
 		"teamWin": "Champions: (2017–18)"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/8/89/Brisbane_heat.png",
 		"teamName": "Brisbane Heat",
-		"teamOnclick": "https://www.cricbuzz.com/cricket-team/afghanistan/96/players",
+		"teamOnclick": "",
 		"teamWin": "Champions: (2012–13)"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/0/07/Hobart_hurricanes.png",
 		"teamName": "Hobart Hurricanes",
-		"teamOnclick": "https://www.cricbuzz.com/cricket-team/pakistan/3/players",
+		"teamOnclick": "",
 		"teamWin": "Champions: 0"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/5/50/Melbourne_renegades.png",
 		"teamName": "Melbourne Renegades",
-		"teamOnclick": "https://www.cricbuzz.com/cricket-team/australia/4/players",
+		"teamOnclick": "",
 		"teamWin": "Champions (2018–19)"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/b/be/Melbourne_stars.png",
 		"teamName": "Melbourne Stars",
-		"teamOnclick": "https://www.cricbuzz.com/cricket-team/sri-lanka/5/players",
+		"teamOnclick": "",
 		"teamWin": "Champions: 0"
 	}, {
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Perth_Scorchers.png/230px-Perth_Scorchers.png",
 		"teamName": "Perth Scorchers",
-		"teamOnclick": "https://www.cricbuzz.com/cricket-team/bangladesh/6/players",
+		"teamOnclick": "",
 		"teamWin": "Champions: (2013–14, 2014–15, 2016–17, 2021–22)"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/6/60/Sydney_sixers.png",
 		"teamName": "Sydney Sixers",
-		"teamOnclick": "https://www.cricbuzz.com/cricket-team/england/9/players",
+		"teamOnclick": "",
 		"teamWin": "Champions: 2011–12, 2019–20, 2020–21"
 	}, {
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/7/72/Sydney_thunder.png",
 		"teamName": "Sydney Thunder",
-		"teamOnclick": "https://www.cricbuzz.com/cricket-team/west-indies/10/players",
-		"teamWin": "Champions: (2015–16, )"
+		"teamOnclick": "",
+		"teamWin": "Champions: (2015–16)"
 	}
 ]
