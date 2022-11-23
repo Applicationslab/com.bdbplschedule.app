@@ -1,31 +1,37 @@
 [{
-		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/india.png",
-		"winnersName": "India",
-		"winnersRun": "Runner-up:(0)",
-		"winnersWin": "Champions (2016)"
+		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Perth_Scorchers.png/230px-Perth_Scorchers.png",
+		"winnersName": "Perth Scorchers",
+		"winnersRun": "Runner-up:(2011–12, 2012–13, 2020–21)",
+		"winnersWin": "Champions (2013–14, 2014–15, 2016–17, 2021–22)"
 	},
 	{
-		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/bangladesh.png",
-		"winnersName": "Bangladesh",
-		"winnersRun": "Runners-up (2016)",
-		"winnersWin": "Champion:(0)"
+		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/6/60/Sydney_sixers.png",
+		"winnersName": "Sydney Sixers",
+		"winnersRun": "Runners-up (2014–15, 2016–17, 2021–22)",
+		"winnersWin": "Champion:(2011–12, 2019–20, 2020–21)"
 	},
 	{
-		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/pakistan.png",
-		"winnersName": "Pakistan",
-		"winnersRun": "Group stage (2016)",
-		"winnersWin": "Champion: (0)"
+		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Adelaide_Strikers_logo.svg/480px-Adelaide_Strikers_logo.svg.png",
+		"winnersName": "Adelaide Strikers",
+		"winnersRun": "Runners-up ()",
+		"winnersWin": "Champion: (2017–18)"
 	},
 	{
-		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/sri_lanka.png",
-		"winnersName": "Sri Lanka",
+		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/8/89/Brisbane_heat.png",
+		"winnersName": "Brisbane Heat",
 		"winnersRun": "Runner-up: 0",
-		"winnersWin": "Champion: (2017)"
+		"winnersWin": "Champion: (2012–13)"
 	},
 	{
-		"winnersImage": "https://raw.githubusercontent.com/Applicationslab/Asiacup/main/uae.png",
-		"winnersName": "UAE",
-		"winnersRun": "Group stage (2016)",
-		"winnersWin": "Champion: (0)"
+		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/5/50/Melbourne_renegades.png",
+		"winnersName": "Melbourne Renegades",
+		"winnersRun": "Runner-up (0)",
+		"winnersWin": "Champion: (2018–19)"
+	},
+	{
+		"winnersImage": "https://upload.wikimedia.org/wikipedia/en/7/72/Sydney_thunder.png",
+		"winnersName": "Sydney Thunder",
+		"winnersRun": "Runner-up (0)",
+		"winnersWin": "Champion: (2015–16)"
 	}
 ]
